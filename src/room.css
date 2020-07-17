@@ -1,0 +1,16 @@
+.room{
+    min-width: 23px;
+    min-height: auto;
+
+}
+
+.lit{
+    background-color: aliceblue;
+    color: black;
+}
+
+
+.dark{
+    background-color: black;
+    color: aliceblue;
+}
